@@ -1,5 +1,5 @@
 {
-  "version": "3.2.0",
-  "message": "New Update: QuickStash minimize feature removed for cleaner layout, and video playback speed controls added.",
+  "version": "3.3.0",
+  "message": "New Update: 3D Camera centering alignment solved, and persistent memory for Camera options (Depth of Field, Aperture, Zoom) added.",
   "downloadUrl": "https://app.lemonsqueezy.com/my-orders"
 }
