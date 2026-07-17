@@ -1,5 +1,5 @@
 {
-  "version": "3.3.0",
+  "version": "3.0.1",
   "message": "New Update: 3D Camera centering alignment solved, and persistent memory for Camera options (Depth of Field, Aperture, Zoom) added.",
   "downloadUrl": "https://app.lemonsqueezy.com/my-orders"
 }
