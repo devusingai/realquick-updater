@@ -1,5 +1,5 @@
 {
-  "version": "3.0.1",
-  "message": "New Update: 3D Camera centering alignment solved, and persistent memory for Camera options (Depth of Field, Aperture, Zoom) added.",
+  "version": "3.0.5",
+  "message": "New Update: 3D Proximity Math & Keyframe Trigger optimized with robust world-space coordinates, axis alignment, and separated dimensions support.",
   "downloadUrl": "https://app.lemonsqueezy.com/my-orders"
 }
