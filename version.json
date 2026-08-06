@@ -1,5 +1,5 @@
 {
-  "version": "3.6",
-  "message": "RealQuick v3.6 Update: Fixed Motion FX buttons (Organize, Trim Path), overhauled Carousel Builder (2D/3D modes + 6 layouts), and added new Proximity and Paste IT features.",
+  "version": "3.6.5",
+  "message": "RealQuick v3.6.5 Maintenance Update: Enhanced 3D Extruder with zero position shift & precomp collapse transformations, fixed Camera+Null rig positioning, fixed Trim Path stagger mode, and improved Proximity opacity/rotation reactive controls.",
   "downloadUrl": "https://app.lemonsqueezy.com/my-orders"
 }
