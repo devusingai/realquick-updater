@@ -1,5 +1,5 @@
 {
-  "version": "3.6.5",
-  "message": "RealQuick v3.6.5 Maintenance Update: Enhanced 3D Extruder with zero position shift & precomp collapse transformations, fixed Camera+Null rig positioning, fixed Trim Path stagger mode, and improved Proximity opacity/rotation reactive controls.",
+  "version": "3.7",
+  "message": "RealQuick v3.7 Update: Refreshed UI Design, Save Assets to Library, 1-Click Purge All Memory & Disk Cache, and Enhanced Carousel Builder with 3D Spatial Reactor Null.",
   "downloadUrl": "https://app.lemonsqueezy.com/my-orders"
 }
